@@ -1,4 +1,6 @@
 # Aliases extracted from modules themselves.
+alias of:N*T*Cmediatek,geniezone gzvm
+alias of:N*T*Cmediatek,geniezoneC* gzvm
 alias pci:v00001AF4d*sv*sd*bc*sc*i* virtio_pci
 alias virtio:d00000005v* virtio_balloon
 alias of:N*T*Carm,cryptocell-713-trng cctrng
