@@ -1,3 +1,4 @@
+/system/lib/modules/gzvm.ko:
 /system/lib/modules/kheaders.ko:
 /system/lib/modules/zsmalloc.ko:
 /system/lib/modules/netfs.ko:
@@ -94,10 +95,10 @@
 /system/lib/modules/of_kunit_helpers.ko: /system/lib/modules/kunit.ko
 /system/lib/modules/kunit-example-test.ko: /system/lib/modules/kunit.ko
 /system/lib/modules/ext4-inode-test.ko: /system/lib/modules/kunit.ko
-/system/lib/modules/kunit.ko:
-/system/lib/modules/soc-topology-test.ko: /system/lib/modules/kunit.ko
 /system/lib/modules/regmap-ram.ko:
 /system/lib/modules/dev_addr_lists_test.ko: /system/lib/modules/kunit.ko
 /system/lib/modules/binder_alloc_kunit.ko: /system/lib/modules/kunit.ko
+/system/lib/modules/soc-topology-test.ko: /system/lib/modules/kunit.ko
+/system/lib/modules/kunit.ko:
 /system/lib/modules/kunit-test.ko: /system/lib/modules/kunit.ko
 /system/lib/modules/platform-test.ko: /system/lib/modules/kunit.ko
